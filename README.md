@@ -14,7 +14,7 @@
 
 采用迭代器 + 策略模式进行设计重构
 
-![FJEv2](D:\c++\FJEv2\readme.assert\FJEv2.jpg)
+![FJEv2](readme.assert/FJEv2.jpg)
 
 ### 迭代器模式
 
@@ -32,19 +32,19 @@
 
 **TreeStyle+DefaultIconFamily**
 
-![tree+default](readme.assert\tree+default.jpg)
+![tree+default](readme.assert/tree+default.jpg)
 
 **TreeStyle+PokerFaceIconFamily**
 
-![tree+poker](readme.assert\tree+poker.jpg)
+![tree+poker](readme.assert/tree+poker.jpg)
 
 **RectangleStyle+DefaultIconFamily**
 
-![rect+default](readme.assert\rect+default.jpg)
+![rect+default](readme.assert/rect+default.jpg)
 
 **RectangleStyle+PokerFaceIconFamily**
 
-![rect+poker](readme.assert\rect+poker.jpg)
+![rect+poker](readme.assert/rect+poker.jpg)
 
 
 
